@@ -89,6 +89,7 @@ h1 {
   transition: color 0.15s,
   opacity 0.15s;
   cursor: pointer;
+  display: inline-block;
 }
 h1:hover {
   color:hsl(47, 88%, 63%);
